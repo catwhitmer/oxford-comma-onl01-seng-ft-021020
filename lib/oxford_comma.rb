@@ -19,4 +19,3 @@ def oxford_comma(array)
 end
 end
 end
-oxford_comma(array2)
